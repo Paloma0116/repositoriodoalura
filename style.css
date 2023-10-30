@@ -6,6 +6,18 @@ body {
     background: #CCCCCC;
     padding: 30px;
 }
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
 
 #banner {
     width: 100%;
